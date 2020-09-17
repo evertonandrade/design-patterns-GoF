@@ -6,9 +6,9 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            var imp1 = Impressora.Iniciar;
-            var imp2 = Impressora.Iniciar;
-            var imp3 = Impressora.Iniciar;
+            var imp1 = Impressora.Instancia;
+            var imp2 = Impressora.Instancia;
+            var imp3 = Impressora.Instancia;
 
             if (imp1 == imp2 && imp2 == imp3)
             {

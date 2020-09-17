@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5OlnRQKh3CHyJQ82nPcgqVscRN5eSgk7WeAoLZtqM6koA69bER1kdEyPbIU1656DwqOWpTgbmO+jFbb27/JVA==",
+  "success": true,
+  "projectFilePath": "/home/everton/Desktop/Faculdade/design-patterns-GoF/creational/Singleton/Singleton.csproj",
+  "expectedPackageFiles": [
+    "/home/everton/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -5,18 +5,26 @@ namespace Singleton
         public string Marca { get; private set; }
         public string Endereco { get; private set; }
         public string Porta { get; private set; }
-        private static readonly Impressora _instancia = new Impressora();
+        private static Impressora _instancia;
 
         private Impressora()
         {
             this.Marca = "HP Deskjet F300 Series";
             this.Endereco = "10.211.55.1";
             this.Porta = "9100";
+            
         }
 
-        public static Impressora Iniciar
-        {
-            get { return _instancia; }
+        public static Impressora Instancia
+        { 
+            get 
+            {
+                if (_instancia == null)
+                {
+                    _instancia = new Impressora();
+                }
+                return _instancia; 
+            }
         }
 
 		public void Print(string matricula)
