@@ -1,0 +1,13 @@
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/bin/Debug/netcoreapp3.1/Adapter
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/bin/Debug/netcoreapp3.1/Adapter.deps.json
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/bin/Debug/netcoreapp3.1/Adapter.runtimeconfig.json
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/bin/Debug/netcoreapp3.1/Adapter.runtimeconfig.dev.json
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/bin/Debug/netcoreapp3.1/Adapter.dll
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/bin/Debug/netcoreapp3.1/Adapter.pdb
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/obj/Debug/netcoreapp3.1/Adapter.csprojAssemblyReference.cache
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/obj/Debug/netcoreapp3.1/Adapter.AssemblyInfoInputs.cache
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/obj/Debug/netcoreapp3.1/Adapter.AssemblyInfo.cs
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/obj/Debug/netcoreapp3.1/Adapter.dll
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/obj/Debug/netcoreapp3.1/Adapter.pdb
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/obj/Debug/netcoreapp3.1/Adapter.csproj.CopyComplete

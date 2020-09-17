@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GBqTWWdBZVrXsvF3YJ7YhNCTTmlDu2xgJgfw3u8dWr3WbW3OMmI6yciXP5W064BEbBYZf2Ve6jeHvJXM037oQ==",
+  "success": true,
+  "projectFilePath": "/home/everton/Desktop/Faculdade/design-patterns-GoF/structural/Adapter/Adapter.csproj",
+  "expectedPackageFiles": [
+    "/home/everton/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/everton/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
